@@ -58,6 +58,7 @@
   ".pp":          {"name": "delphi", "symbol": "//"},
   ".py":          {"name": "python", "symbol": "#"},
   ".rb":          {"name": "ruby", "symbol": "#"},
+  ".res":         {"name": "rescript", "symbol": "//"},
   ".tex":         {"name": "tex", "symbol": "%"},
   ".scala":       {"name": "scala", "symbol": "//"},
   ".scpt":        {"name": "applescript", "symbol": "--"},
